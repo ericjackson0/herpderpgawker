@@ -22,5 +22,5 @@ On older Gawker Media sites (such as Gawker or Gizmodo), it simply replaces the 
 
 #####Click on the herp derped comment to reveal the original, witty, super-funny comment.
 
-Any suggestions, complaints, comments, or ideas are welcome! Email me at ericjackson0[at]gmail[dot]com, or find me
-on [Twitter](www.twitter.com/ericjackson0).
+Any suggestions, complaints, comments, or ideas are welcome! Email me at ericjackson0 [at] gmail [dot] com, or find me
+on [Twitter](https://twitter.com/ericjackson0).
