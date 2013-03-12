@@ -4,6 +4,7 @@ Chrome extension to improve all Gawker Media sites by herp derping the user comm
 
 ###Example:
 Original:	"your favorite player SUCKS!!1! lol srsly he's the ****ing WORST!1!"
+
 Derped:		"herp herp derp herp derp derp derp herp derp"
 
 Much better.
@@ -19,8 +20,7 @@ Much better.
 This was created mainly for Deadspin. Deadspin uses the new Kinja system and this converts the comments fine.
 On older Gawker Media sites (such as Gawker or Gizmodo), it simply replaces the entire comment section with herped derps.
 
-Click on the herp derped comment to reveal the original, witty, super-funny (I'm sure) comment.
-------
+#####Click on the herp derped comment to reveal the original, witty, super-funny (I'm sure) comment.
 
 Any suggestions, complaints, comments, or ideas are welcome! Email me at ericjackson0[at]gmail[dot]com, or find me
 on Twitter: twitter.com/ericjackson0
