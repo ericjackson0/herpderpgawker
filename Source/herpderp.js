@@ -21,8 +21,8 @@ function randomDerp() {
     // Save original comments
     this.derpOriginal = $(this).html();
     
-    // Restore actual comments when clicked on
-    $(this).click(function() {
+    // Restore actual comments when hovered over
+    $(this).hoverIntent(function() {
         $(this).html(this.derpOriginal);
     });
     
@@ -51,7 +51,7 @@ function randomDerp() {
 }
 
 /**
- * Runs the herp derper every 1 second.
+ * Runs the herp derper every second.
  */
 setInterval(function() {    
     // Only select non-derped elements
