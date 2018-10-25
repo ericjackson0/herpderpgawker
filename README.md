@@ -1,3 +1,5 @@
+#### This is old (obviously, since RIP Gawker). Might update eventually!
+
 ## Herp Derp Gawker Media
 
 Chrome extension to improve all Gawker Media sites by herp derping the user comments. Created primarily for Deadspin commenters, as they tend to need the most fixing.
