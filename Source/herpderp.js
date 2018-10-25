@@ -7,8 +7,7 @@
  */
 
 // Only select un-derped text
-// New Gawker sites (Kinja 1.0)
-$('.reply-content, p.ctx').html(randomDerp);
+$('.reply__content').html(randomDerp);
 
 // Old Gawker sites use iframes, so the actual comments can't be changed
 $('#comments').html(randomDerp);
@@ -56,7 +55,7 @@ function randomDerp() {
 setInterval(function() {    
     // Only select non-derped elements
     // New Gawker
-    $('.reply-content, p.ctx').not('.derped').html(randomDerp);
+    $('.reply__content').not('.derped').html(randomDerp);
     
     // Old Gawker
     $('#comments').not('.derped').html(randomDerp);

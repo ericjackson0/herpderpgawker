@@ -16,9 +16,6 @@ Much better.
 4. Click on "Load unpackaged extension...".
 5. Select the folder "Herp Derp Gawker Media".
 
-####Note
-Now that Gawker Media sites all use the Kinja system (for now), this works pretty well. Sometimes, the comments don't get spaced out correctly. I'll look into this as time permits.
-
 #####Hover over the herp derped comment to reveal the original comment.
 
 Any suggestions, complaints, comments, or ideas are welcome! Email me at ericjackson0 [at] gmail [dot] com, or find me

@@ -8,19 +8,26 @@
                       "*://lifehacker.com/*",
                       "*://kotaku.com/*",
                       "*://io9.com/*",
-                      "*://jalopnik.com/*"
+                      "*://jalopnik.com/*",
+                      "*://*.deadspin.com/*",
+                      "*://*.jezebel.com/*",
+                      "*://*.gizmodo.com/*",
+                      "*://*.lifehacker.com/*",
+                      "*://*.kotaku.com/*",
+                      "*://*.io9.com/*",
+                      "*://*.jalopnik.com/*"
                       ],
         "run_at" : "document_idle",
         "all_frames" : true
     } ],
-    
     "manifest_version" : 2,
     "name" : "Herp Derp Gawker Media",
+    "short_name" : "DerpGawker",
     "icons" : {
         "128" : "gawkerDerp128.png",
         "48" : "gawkerDerp48.png"
     },   
     
     "description" : "Improves Gawker Media sites by herp derping user comments.",
-    "version" : "1.2"
+    "version" : "1.4"
 }
